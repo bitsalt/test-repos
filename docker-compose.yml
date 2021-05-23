@@ -1,8 +1,4 @@
 version: '2'
 services:
   app:
-    image: nginx:1.9
-    volumes:
-      - ./app:/usr/share/nginx/html/
-    expose:
-      - "80"
+    image: frujo:latest
