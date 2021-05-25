@@ -6,6 +6,8 @@ Git commits to this project trigger multiple actions:
 
 Working...
 * Push an image of the project to dockerHub: bitsalt/frujo
+
+Currently testing...
 * Push to Jenkins for testing
 
 Not yet validated
